@@ -1,6 +1,7 @@
 # Document-classification-Problem-
 
 Approach:
+
 1.Setup a EC2 cluster on AWS and connect it to local directory using commands
 $ sudo chown -v user keyValuePair.pem 
 $ chmod 400 keyValuePair.pem 
