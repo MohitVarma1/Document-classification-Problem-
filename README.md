@@ -11,7 +11,7 @@ $ sudo pip install python3
 $ pip3 install virtualenv 
 $ pip3 install Flask
 
-3. Upload files to EC2 via Filezilla
+3.Upload files to EC2 via Filezilla
 Drag and drop all the relevant files like DocC.ipynb, Model_api.py and other view file to EC2 cluster
 Install Numpy, Pandas , NLTK in order to run the model_api.py
 
