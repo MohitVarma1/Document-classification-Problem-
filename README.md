@@ -1,5 +1,7 @@
 # Document-classification-Problem-
 
+Solved this Problem with Random Forest, LogisticRegression, SVM, Naive Bayes, Classifiers and found out RFC to be the best Classifier. Then used Random Classification Model with Best Paramaters, resulting in 86% effeciency
+
 Approach:
 
 1.Setup a EC2 cluster on AWS and connect it to local directory using commands
